@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash Kumar
 - 👀 I’m interested in Problem Solving, Web development and ML
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs, Material UI, Java
 - 💞️ I’m looking to collaborate on challenging projects to surpass my limit
 - 📫 Reach me at https://www.linkedin.com/in/akash-kumar-1452a9194/
 
